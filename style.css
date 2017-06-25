@@ -1,35 +1,38 @@
+/*Page related*/
 html{
-    height: 100%;
+    height: 100%; /*Forces the background gradient to extend to the entire screen*/
+    font-family: Arial; /*A nice unoffensive generic sans serif font*/
 }
 
 body{
+    /*Background gradient for various browsers*/
     background-image: -webkit-linear-gradient(#fff 0%, #5e91ff 35%, #5e91ff 100%);
     background-image: -moz-linear-gradient(#fff 0%, #5e91ff 35%, #5e91ff 100%);
     background-image: -o-linear-gradient(#fff 0%, #5e91ff 35%, #5e91ff 100%);
     background-image: -ms-linear-gradient(#fff 0%, #5e91ff 35%, #5e91ff 100%);
     background-image: linear-gradient(#fff 0%, #5e91ff 35%, #5e91ff 100%);
-    background-attachment: fixed;
+    background-attachment: fixed; /*Forces static unscrolling background*/
 }
 
+/*Table related*/
 table  {
-    border-collapse: collapse;
+    border-collapse: collapse; /*Prevents that ugly double border look*/
+    margin:auto; /*Centers table element to middle of the screen horizontally*/
 }
 
-th, td {
-    border-bottom: 1px solid #ddd;
+table, tr, th, td{
+    border:0px solid black; /*Hides the borders*/
+    padding:15px 25px; /*Adds space within the inside edges of each cell*/
 }
-
-tr:hover {
-    background-color: #f5f5f5;
-}
-
 
 tbody tr:nth-child(odd) {
-   background: #fff;
-   background: rgba(204,204,204,0.5);
+    /*Zebra striping */
+    background: #ddd; /*Fallback to light grey*/
+    background: rgba(204,204,204,0.5); /*Otherwise, a 50% translucent grey*/
 }
 
 tbody tr:nth-child(even) {
-    background: #ddd;
-    background: rgba(255,255,255,0.5);
+    /*Zebra striping */
+    background: #fff; /*Fallback to white*/
+    background: rgba(255,255,255,0.5); /*Otherwise, a 50% translucent white*/
 }
