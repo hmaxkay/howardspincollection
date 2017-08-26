@@ -34,9 +34,9 @@ function myFunction(xml) {
   var x = xmlDoc.getElementsByTagName("RECORD");
   for (i = 0; i <x.length; i++) { 
     table += "<tr><td>" +
-    x[i].childNodes[0].childNodes[0].nodeValue +
+    x[i].childNodes[0].nodeValue +
     "</td><td>" +
-    x[i].childNodes[0].childNodes[0].nodeValue +
+    x[i].childNodes[1].nodeValue +
     "</td></tr>";
   }
   document.getElementById("demo").innerHTML = table;
