@@ -18,7 +18,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <tr>
       <td><xsl:value-of select="FIELD[@fname = 'ID #']"/></td>
       <td><xsl:value-of select="FIELD[@fname = 'Card Front']"/></td>
-      <td><img src="/thumbnails/IMG_8813.jpg" alt="Mountain View" style="width:269px;height:300px;"></td>
       <td><xsl:value-of select="FIELD[@fname = 'Acquired from']"/></td>
       <td><xsl:value-of select="FIELD[@fname = 'Date Acquired']"/></td>
     </tr>
