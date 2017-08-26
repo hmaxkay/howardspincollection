@@ -39,9 +39,9 @@
  </METADATA>
  <DATA n_records="125">
   <RECORD>
-   <FIELD fname="ID #">1</FIELD>
+   <ID>1</ID>
    <FIELD fname="Card Front">FullSizeRender-9.jpg</FIELD>
-   <FIELD fname="Date Acquired">May 29, 2016</FIELD>
+   <DATE>May 29, 2016</DATE>
    <FIELD fname="Acquired from">Caesars Palace - Las Vegas, NV</FIELD>
    <FIELD fname="Price">9.95</FIELD>
    <FIELD fname="Card Back">FullSizeRender-12.jpg</FIELD>
