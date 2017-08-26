@@ -1,0 +1,1284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COLLECTION>
+ <VERSION>1.5</VERSION>
+ <NAME>Pins</NAME>
+ <UPDATED>25-AUG-2017 20:41:15</UPDATED>
+ <METADATA>
+  <CURRENCY>DOLLARS</CURRENCY>
+  <UNITS>INCHES</UNITS>
+  <IMAGE_DIRECTORY>Pins_Images</IMAGE_DIRECTORY>
+  <SORT_KEY>1/A 3/A 4/A</SORT_KEY>
+  <VIEWER_SIZE x="34.07" y="9.35" width="60.00" height="35.00"></VIEWER_SIZE>
+  <PREFERENCES>
+  </PREFERENCES>
+  <FIELD type="phrase" editpos="1" detailpos="1" listpos="1" width="4">ID #</FIELD>
+  <FIELD type="image" editpos="2" detailpos="2" listpos="6" width="13" userfield="TRUE">
+   Card Front
+  </FIELD>
+  <FIELD type="date" editpos="3" detailpos="3" listpos="3" width="15" userfield="TRUE">
+   Date Acquired
+  </FIELD>
+  <FIELD type="stext" editpos="4" detailpos="4" listpos="2" width="45" userfield="TRUE">
+   Acquired from
+  </FIELD>
+  <FIELD type="currency" editpos="5" detailpos="5" listpos="4" width="8" userfield="TRUE">
+   Price
+  </FIELD>
+  <FIELD type="image" editpos="6" detailpos="6" listpos="7" width="18" userfield="TRUE">
+   Card Back
+  </FIELD>
+  <FIELD type="image" editpos="7" detailpos="7" listpos="8" width="18" userfield="TRUE">
+   Receipt
+  </FIELD>
+  <FIELD type="ltext" editpos="8" detailpos="8" listpos="5" width="30" userfield="TRUE">
+   Notes
+  </FIELD>
+  <FIELD type="phrase" editpos="9" detailpos="9" listpos="9" width="18" userfield="TRUE">
+   Category
+  </FIELD>
+ </METADATA>
+ <DATA n_records="125">
+  <RECORD>
+   <FIELD fname="ID #">1</FIELD>
+   <FIELD fname="Card Front">FullSizeRender-9.jpg</FIELD>
+   <FIELD fname="Date Acquired">May 29, 2016</FIELD>
+   <FIELD fname="Acquired from">Caesars Palace - Las Vegas, NV</FIELD>
+   <FIELD fname="Price">9.95</FIELD>
+   <FIELD fname="Card Back">FullSizeRender-12.jpg</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">2</FIELD>
+   <FIELD fname="Card Front">FullSizeRender-8.jpg</FIELD>
+   <FIELD fname="Date Acquired">May 29, 2016</FIELD>
+   <FIELD fname="Acquired from">Caesars Palace - Las Vegas, NV</FIELD>
+   <FIELD fname="Price">7.95</FIELD>
+   <FIELD fname="Card Back">FullSizeRender-11.jpg</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">3</FIELD>
+   <FIELD fname="Card Front">FullSizeRender copy.jpg</FIELD>
+   <FIELD fname="Date Acquired">May 29, 2016</FIELD>
+   <FIELD fname="Acquired from">Bellagio - Las Vegas, NV</FIELD>
+   <FIELD fname="Price">8.00</FIELD>
+   <FIELD fname="Card Back">FullSizeRender-7.jpg</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">4</FIELD>
+   <FIELD fname="Card Front">FullSizeRender-1.jpg</FIELD>
+   <FIELD fname="Date Acquired">May 30, 2016</FIELD>
+   <FIELD fname="Acquired from">Shark Reef Aquarium at Mandalay Bay - Las Vegas, NV</FIELD>
+   <FIELD fname="Price">9.00</FIELD>
+   <FIELD fname="Card Back">FullSizeRender-5.jpg</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">5</FIELD>
+   <FIELD fname="Card Front">FullSizeRender-3.jpg</FIELD>
+   <FIELD fname="Date Acquired">May 30, 2016</FIELD>
+   <FIELD fname="Acquired from">House of Blues (in Mandalay Bay) - Las Vegas, NV</FIELD>
+   <FIELD fname="Price">8.00</FIELD>
+   <FIELD fname="Card Back">FullSizeRender-10.jpg</FIELD>
+   <FIELD fname="Notes">Did not eat here</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">6</FIELD>
+   <FIELD fname="Card Front">IMG_5776-1.JPG</FIELD>
+   <FIELD fname="Date Acquired">May 30, 2016</FIELD>
+   <FIELD fname="Acquired from">Hard Rock Cafe - Las Vegas, NV</FIELD>
+   <FIELD fname="Price">12.00</FIELD>
+   <FIELD fname="Card Back">FullSizeRender copy 2.jpg</FIELD>
+   <FIELD fname="Notes">Limited edition of 300. Did not eat here</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">7</FIELD>
+   <FIELD fname="Card Front">FullSizeRender-2.jpg</FIELD>
+   <FIELD fname="Date Acquired">May 30, 2016</FIELD>
+   <FIELD fname="Acquired from">Coca-Cola World - Las Vegas, NV</FIELD>
+   <FIELD fname="Price">4.95</FIELD>
+   <FIELD fname="Card Back">FullSizeRender.jpg</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">8</FIELD>
+   <FIELD fname="Card Front">IMG_5808.JPG</FIELD>
+   <FIELD fname="Date Acquired">June 22, 2016</FIELD>
+   <FIELD fname="Acquired from">Mondo (Online)</FIELD>
+   <FIELD fname="Price">35.00</FIELD>
+   <FIELD fname="Card Back">IMG_5809.JPG</FIELD>
+   <FIELD fname="Receipt">Order #160398 – Mondo.pdf</FIELD>
+   <FIELD fname="Notes">
+    Team Iron Man Avengers pin set (from Captain America: Civil War movie) designed by Tom Whalen.
+    Ant-Man pin included as bonus for pre-ordering.
+   </FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">9</FIELD>
+   <FIELD fname="Card Front">IMG_5862.JPG</FIELD>
+   <FIELD fname="Date Acquired">July 5, 2016</FIELD>
+   <FIELD fname="Acquired from">Ideastorm (Online)</FIELD>
+   <FIELD fname="Price">7.00</FIELD>
+   <FIELD fname="Card Back">IMG_5863.JPG</FIELD>
+   <FIELD fname="Receipt">Ideastorm (06-30-16).pdf</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">10</FIELD>
+   <FIELD fname="Card Front">IMG_5864.JPG</FIELD>
+   <FIELD fname="Date Acquired">July 7, 2016</FIELD>
+   <FIELD fname="Acquired from">Mondo (Online)</FIELD>
+   <FIELD fname="Price">15.00</FIELD>
+   <FIELD fname="Card Back">IMG_5865.JPG</FIELD>
+   <FIELD fname="Receipt">Order #177975 – Mondo.pdf</FIELD>
+   <FIELD fname="Notes">2-pin set</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">11</FIELD>
+   <FIELD fname="Card Front">IMG_5904.JPG</FIELD>
+   <FIELD fname="Date Acquired">July 17, 2016</FIELD>
+   <FIELD fname="Acquired from">IBM</FIELD>
+   <FIELD fname="Price">0.00</FIELD>
+   <FIELD fname="Card Back">IMG_5905.JPG</FIELD>
+   <FIELD fname="Notes">From Dushyant</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">12</FIELD>
+   <FIELD fname="Card Front">IMG_5906.JPG</FIELD>
+   <FIELD fname="Date Acquired">July 17, 2016</FIELD>
+   <FIELD fname="Acquired from">Dell Diamond - Round Rock, TX</FIELD>
+   <FIELD fname="Price">5.00</FIELD>
+   <FIELD fname="Card Back">IMG_5907.JPG</FIELD>
+   <FIELD fname="Notes">Round Rock Express</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">13</FIELD>
+   <FIELD fname="Card Front">FullSizeRender-15.jpg</FIELD>
+   <FIELD fname="Date Acquired">July 31, 2016</FIELD>
+   <FIELD fname="Acquired from">San Diego Comic Con 2016</FIELD>
+   <FIELD fname="Price">0.00</FIELD>
+   <FIELD fname="Card Back">FullSizeRender-22.jpg</FIELD>
+   <FIELD fname="Notes">From Raphael</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">14</FIELD>
+   <FIELD fname="Card Front">FullSizeRender-14.jpg</FIELD>
+   <FIELD fname="Date Acquired">July 31, 2016</FIELD>
+   <FIELD fname="Acquired from">San Diego Comic Con 2016</FIELD>
+   <FIELD fname="Price">0.00</FIELD>
+   <FIELD fname="Card Back">FullSizeRender-16.jpg</FIELD>
+   <FIELD fname="Notes">From Raphael</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">15</FIELD>
+   <FIELD fname="Card Front">FullSizeRender-6.jpg</FIELD>
+   <FIELD fname="Date Acquired">July 31, 2016</FIELD>
+   <FIELD fname="Acquired from">San Diego Comic Con 2016</FIELD>
+   <FIELD fname="Price">0.00</FIELD>
+   <FIELD fname="Card Back">FullSizeRender-18.jpg</FIELD>
+   <FIELD fname="Notes">From Raphael</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">16</FIELD>
+   <FIELD fname="Card Front">FullSizeRender-4.jpg</FIELD>
+   <FIELD fname="Date Acquired">July 31, 2016</FIELD>
+   <FIELD fname="Acquired from">San Diego Comic Con 2016</FIELD>
+   <FIELD fname="Price">0.00</FIELD>
+   <FIELD fname="Card Back">FullSizeRender-19.jpg</FIELD>
+   <FIELD fname="Notes">From Raphael</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">17</FIELD>
+   <FIELD fname="Card Front">FullSizeRender-20.jpg</FIELD>
+   <FIELD fname="Date Acquired">July 31, 2016</FIELD>
+   <FIELD fname="Acquired from">Wild About Music - Austin, TX</FIELD>
+   <FIELD fname="Price">6.95</FIELD>
+   <FIELD fname="Card Back">FullSizeRender-13.jpg</FIELD>
+   <FIELD fname="Notes">Music store</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">18</FIELD>
+   <FIELD fname="Card Front">FullSizeRender-17.jpg</FIELD>
+   <FIELD fname="Date Acquired">August 2, 2016</FIELD>
+   <FIELD fname="Acquired from">Intel</FIELD>
+   <FIELD fname="Price">0.00</FIELD>
+   <FIELD fname="Card Back">FullSizeRender-21.jpg</FIELD>
+   <FIELD fname="Notes">From Dushyant</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">19</FIELD>
+   <FIELD fname="Card Front">IMG_6009.JPG</FIELD>
+   <FIELD fname="Date Acquired">August 4, 2016</FIELD>
+   <FIELD fname="Acquired from">eBay (Online)</FIELD>
+   <FIELD fname="Price">7.00</FIELD>
+   <FIELD fname="Card Back">IMG_6013.JPG</FIELD>
+   <FIELD fname="Receipt">eBay 7:13:16.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">20</FIELD>
+   <FIELD fname="Card Front">IMG_6012.JPG</FIELD>
+   <FIELD fname="Date Acquired">August 4, 2016</FIELD>
+   <FIELD fname="Acquired from">eBay (Online)</FIELD>
+   <FIELD fname="Price">16.99</FIELD>
+   <FIELD fname="Card Back">IMG_6014.JPG</FIELD>
+   <FIELD fname="Receipt">eBay 7:26:16.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">21</FIELD>
+   <FIELD fname="Card Front">IMG_6015.JPG</FIELD>
+   <FIELD fname="Date Acquired">August 4, 2016</FIELD>
+   <FIELD fname="Acquired from">eBay (Online)</FIELD>
+   <FIELD fname="Price">9.99</FIELD>
+   <FIELD fname="Card Back">IMG_6016.JPG</FIELD>
+   <FIELD fname="Receipt">eBay 7:26:16.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">22</FIELD>
+   <FIELD fname="Card Front">IMG_6017.JPG</FIELD>
+   <FIELD fname="Date Acquired">August 4, 2016</FIELD>
+   <FIELD fname="Acquired from">eBay (Online)</FIELD>
+   <FIELD fname="Price">10.50</FIELD>
+   <FIELD fname="Card Back">IMG_6018.JPG</FIELD>
+   <FIELD fname="Receipt">eBay 7:30:16.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">23</FIELD>
+   <FIELD fname="Card Front">IMG_6077.jpg</FIELD>
+   <FIELD fname="Date Acquired">August 16, 2016</FIELD>
+   <FIELD fname="Acquired from">Casa Loma - Toronto, ON, Canada</FIELD>
+   <FIELD fname="Price">3.00 (CAD)</FIELD>
+   <FIELD fname="Card Back">IMG_6078.jpg</FIELD>
+   <FIELD fname="Receipt">Casa Loma.pdf</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">24</FIELD>
+   <FIELD fname="Card Front">IMG_6079.jpg</FIELD>
+   <FIELD fname="Date Acquired">August 16, 2016</FIELD>
+   <FIELD fname="Acquired from">Casa Loma - Toronto, ON, Canada</FIELD>
+   <FIELD fname="Price">5.00 (CAD)</FIELD>
+   <FIELD fname="Card Back">IMG_6080.jpg</FIELD>
+   <FIELD fname="Receipt">Casa Loma.pdf</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">25</FIELD>
+   <FIELD fname="Card Front">IMG_6382.jpg</FIELD>
+   <FIELD fname="Date Acquired">August 17, 2016</FIELD>
+   <FIELD fname="Acquired from">CN Tower - Toronto, ON, Canada</FIELD>
+   <FIELD fname="Price">5.00 (CAD)</FIELD>
+   <FIELD fname="Card Back">IMG_6383.jpg</FIELD>
+   <FIELD fname="Receipt">CN Tower.pdf</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">26</FIELD>
+   <FIELD fname="Card Front">IMG_6384.JPG</FIELD>
+   <FIELD fname="Date Acquired">August 17, 2016</FIELD>
+   <FIELD fname="Acquired from">Steam Whistle Brewing - Toronto, ON, Canada</FIELD>
+   <FIELD fname="Price">2.95 (CAD)</FIELD>
+   <FIELD fname="Card Back">IMG_6385.JPG</FIELD>
+   <FIELD fname="Receipt">Steam Whistle Brewing.pdf</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">27</FIELD>
+   <FIELD fname="Card Front">IMG_6628.JPG</FIELD>
+   <FIELD fname="Date Acquired">August 17, 2016</FIELD>
+   <FIELD fname="Acquired from">Toronto Railway Museum - Toronto, ON, Canada</FIELD>
+   <FIELD fname="Price">5.00 (CAD)</FIELD>
+   <FIELD fname="Card Back">IMG_6629.JPG</FIELD>
+   <FIELD fname="Receipt">Toronto Railway Museum.pdf</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">28</FIELD>
+   <FIELD fname="Card Front">IMG_6392.jpg</FIELD>
+   <FIELD fname="Date Acquired">August 17, 2016</FIELD>
+   <FIELD fname="Acquired from">Ripley’s Aquarium of Canada - Toronto, ON, Canada</FIELD>
+   <FIELD fname="Price">6.99 (CAD)</FIELD>
+   <FIELD fname="Card Back">IMG_6393.jpg</FIELD>
+   <FIELD fname="Receipt">Ripley's Aquarium of Canada.pdf</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">29</FIELD>
+   <FIELD fname="Card Front">IMG_6394.jpg</FIELD>
+   <FIELD fname="Date Acquired">August 18, 2016</FIELD>
+   <FIELD fname="Acquired from">Toronto Zoo - Toronto, ON, Canada</FIELD>
+   <FIELD fname="Price">2.99 (CAD)</FIELD>
+   <FIELD fname="Card Back">IMG_6395.jpg</FIELD>
+   <FIELD fname="Receipt">Toronto Zoo.pdf</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">30</FIELD>
+   <FIELD fname="Card Front">IMG_6396.jpg</FIELD>
+   <FIELD fname="Date Acquired">August 18, 2016</FIELD>
+   <FIELD fname="Acquired from">Toronto Zoo - Toronto, ON, Canada</FIELD>
+   <FIELD fname="Price">3.99 (CAD)</FIELD>
+   <FIELD fname="Card Back">IMG_6397.jpg</FIELD>
+   <FIELD fname="Receipt">Toronto Zoo.pdf</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">31</FIELD>
+   <FIELD fname="Card Front">IMG_6633.JPG</FIELD>
+   <FIELD fname="Date Acquired">August 19, 2016</FIELD>
+   <FIELD fname="Acquired from">L’Oratoire Saint-Joseph du Mont Royal - Montréal, QC, Canada</FIELD>
+   <FIELD fname="Price">1.99 (CAD)</FIELD>
+   <FIELD fname="Card Back">IMG_6635.JPG; IMG_6634.JPG</FIELD>
+   <FIELD fname="Receipt">Saint Joseph Oratory.pdf</FIELD>
+   <FIELD fname="Notes">Artist signature is engraved on back of pin</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">32</FIELD>
+   <FIELD fname="Card Front">IMG_6630.JPG</FIELD>
+   <FIELD fname="Date Acquired">August 20, 2016</FIELD>
+   <FIELD fname="Acquired from">Bastix Souvenirs - Montréal, QC, Canada</FIELD>
+   <FIELD fname="Price">1.99 (CAD)</FIELD>
+   <FIELD fname="Card Back">IMG_6636.JPG</FIELD>
+   <FIELD fname="Receipt">Bastix Souvenirs.pdf</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">33</FIELD>
+   <FIELD fname="Card Front">IMG_6632.JPG</FIELD>
+   <FIELD fname="Date Acquired">August 20, 2016</FIELD>
+   <FIELD fname="Acquired from">Bastix Souvenirs - Montréal, QC, Canada</FIELD>
+   <FIELD fname="Price">1.99 (CAD)</FIELD>
+   <FIELD fname="Card Back">IMG_6637.JPG</FIELD>
+   <FIELD fname="Receipt">Bastix Souvenirs.pdf</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">34</FIELD>
+   <FIELD fname="Card Front">IMG_6640.JPG</FIELD>
+   <FIELD fname="Date Acquired">August 21, 2016</FIELD>
+   <FIELD fname="Acquired from">Musée d'art contemporain de Montréal - Montréal, QC, Canada</FIELD>
+   <FIELD fname="Price">2.99 (CAD)</FIELD>
+   <FIELD fname="Card Back">IMG_6641.JPG</FIELD>
+   <FIELD fname="Receipt">MAC.pdf</FIELD>
+   <FIELD fname="Notes">Contemporary Art Museum of Montreal</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">35</FIELD>
+   <FIELD fname="Card Front">IMG_6660.JPG</FIELD>
+   <FIELD fname="Date Acquired">August 29, 2016</FIELD>
+   <FIELD fname="Acquired from">Bass Pro Shops - Pearland, TX</FIELD>
+   <FIELD fname="Price">1.95</FIELD>
+   <FIELD fname="Card Back">IMG_6661.JPG</FIELD>
+   <FIELD fname="Receipt">Bass Pro Shops (08-29-16).pdf</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">36</FIELD>
+   <FIELD fname="Card Front">IMG_6662.JPG</FIELD>
+   <FIELD fname="Date Acquired">August 29, 2016</FIELD>
+   <FIELD fname="Acquired from">eParks (Online)</FIELD>
+   <FIELD fname="Price">3.95</FIELD>
+   <FIELD fname="Card Back">IMG_6663.JPG</FIELD>
+   <FIELD fname="Receipt">eParks (08-25-16).pdf</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">37</FIELD>
+   <FIELD fname="Card Front">IMG_6664.JPG</FIELD>
+   <FIELD fname="Date Acquired">August 29, 2016</FIELD>
+   <FIELD fname="Acquired from">eParks (Online)</FIELD>
+   <FIELD fname="Price">4.95</FIELD>
+   <FIELD fname="Card Back">IMG_6665.JPG</FIELD>
+   <FIELD fname="Receipt">eParks (08-25-16).pdf</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">38</FIELD>
+   <FIELD fname="Card Front">IMG_6734.JPG</FIELD>
+   <FIELD fname="Date Acquired">September 4, 2016</FIELD>
+   <FIELD fname="Acquired from">Galveston Island State Park - Galveston, TX</FIELD>
+   <FIELD fname="Price">2.95</FIELD>
+   <FIELD fname="Card Back">IMG_6735.JPG</FIELD>
+   <FIELD fname="Receipt">GISP (09-04-16).pdf</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">39</FIELD>
+   <FIELD fname="Card Front">IMG_6736.JPG</FIELD>
+   <FIELD fname="Date Acquired">September 4, 2016</FIELD>
+   <FIELD fname="Acquired from">Galveston Island State Park - Galveston, TX</FIELD>
+   <FIELD fname="Price">3.95</FIELD>
+   <FIELD fname="Card Back">IMG_6737.JPG</FIELD>
+   <FIELD fname="Receipt">GISP (09-04-16).pdf</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">40</FIELD>
+   <FIELD fname="Card Front">IMG_6738.JPG</FIELD>
+   <FIELD fname="Date Acquired">September 4, 2016</FIELD>
+   <FIELD fname="Acquired from">Galveston Island State Park - Galveston, TX</FIELD>
+   <FIELD fname="Price">3.95</FIELD>
+   <FIELD fname="Card Back">IMG_6739.JPG</FIELD>
+   <FIELD fname="Receipt">GISP (09-04-16).pdf</FIELD>
+   <FIELD fname="Notes">Bird=Clapper Rail</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">41</FIELD>
+   <FIELD fname="Card Front">IMG_6728.JPG</FIELD>
+   <FIELD fname="Date Acquired">September 12, 2016</FIELD>
+   <FIELD fname="Acquired from">Casa Sauza - Tequila, JA, Mexico</FIELD>
+   <FIELD fname="Price">0.00</FIELD>
+   <FIELD fname="Card Back">IMG_6729.JPG</FIELD>
+   <FIELD fname="Notes">From Raphael</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">42</FIELD>
+   <FIELD fname="Card Front">IMG_6730.JPG</FIELD>
+   <FIELD fname="Date Acquired">September 12, 2016</FIELD>
+   <FIELD fname="Acquired from">Minute Maid Park - Houston, TX</FIELD>
+   <FIELD fname="Price">8.00</FIELD>
+   <FIELD fname="Card Back">IMG_6731.JPG</FIELD>
+   <FIELD fname="Receipt">Astros (09-12-16).pdf</FIELD>
+   <FIELD fname="Notes">Houston Astros</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">43</FIELD>
+   <FIELD fname="Card Front">IMG_6742.JPG</FIELD>
+   <FIELD fname="Date Acquired">September 17, 2016</FIELD>
+   <FIELD fname="Acquired from">My Coke Rewards (Online)</FIELD>
+   <FIELD fname="Price">0.00</FIELD>
+   <FIELD fname="Card Back">IMG_6743.JPG</FIELD>
+   <FIELD fname="Receipt">My Coke Rewards (07-11-16).pdf</FIELD>
+   <FIELD fname="Notes">Rio 2016 Olympics 8-pin set</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">44</FIELD>
+   <FIELD fname="Card Front">IMG_6775.JPG</FIELD>
+   <FIELD fname="Date Acquired">September 23, 2016</FIELD>
+   <FIELD fname="Acquired from">San Diego Zoo - San Diego, CA</FIELD>
+   <FIELD fname="Price">8.95</FIELD>
+   <FIELD fname="Card Back">IMG_6776.JPG</FIELD>
+   <FIELD fname="Notes">From Mom and Dad</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">45</FIELD>
+   <FIELD fname="Card Front">IMG_6846.JPG</FIELD>
+   <FIELD fname="Date Acquired">September 23, 2016</FIELD>
+   <FIELD fname="Acquired from">San Jacinto Monument &amp; Museum - La Porte, TX</FIELD>
+   <FIELD fname="Price">2.29</FIELD>
+   <FIELD fname="Card Back">IMG_6848.JPG</FIELD>
+   <FIELD fname="Receipt">San Jacinto Museum.pdf</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">46</FIELD>
+   <FIELD fname="Card Front">IMG_6844.JPG</FIELD>
+   <FIELD fname="Date Acquired">September 23, 2016</FIELD>
+   <FIELD fname="Acquired from">Battleship Texas - La Porte, TX</FIELD>
+   <FIELD fname="Price">6.99</FIELD>
+   <FIELD fname="Card Back">IMG_6845.JPG</FIELD>
+   <FIELD fname="Receipt">Battleship Texas.pdf</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">47</FIELD>
+   <FIELD fname="Card Front">IMG_7024.JPG</FIELD>
+   <FIELD fname="Date Acquired">October 7, 2016</FIELD>
+   <FIELD fname="Acquired from">Etsy (Online)</FIELD>
+   <FIELD fname="Price">12.10</FIELD>
+   <FIELD fname="Card Back">IMG_7025.JPG</FIELD>
+   <FIELD fname="Receipt">Etsy Order #1132455663 on Sep 22, 2016.pdf</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">48</FIELD>
+   <FIELD fname="Card Front">IMG_7130.JPG</FIELD>
+   <FIELD fname="Date Acquired">October 7, 2016</FIELD>
+   <FIELD fname="Acquired from">Hard Rock Cafe - Houston, TX</FIELD>
+   <FIELD fname="Price">10.50</FIELD>
+   <FIELD fname="Card Back">IMG_7131.JPG</FIELD>
+   <FIELD fname="Receipt">Hard Rock.pdf</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">49</FIELD>
+   <FIELD fname="Card Front">IMG_7133.JPG</FIELD>
+   <FIELD fname="Date Acquired">October 9, 2016</FIELD>
+   <FIELD fname="Acquired from">Austin City Limits Music Festival - Austin, TX</FIELD>
+   <FIELD fname="Price">9.99</FIELD>
+   <FIELD fname="Card Back">IMG_7134.JPG</FIELD>
+   <FIELD fname="Receipt">ACL.pdf</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">50</FIELD>
+   <FIELD fname="Card Front">IMG_7166.JPG</FIELD>
+   <FIELD fname="Date Acquired">October 14, 2016</FIELD>
+   <FIELD fname="Acquired from">eBay (Online)</FIELD>
+   <FIELD fname="Price">6.95</FIELD>
+   <FIELD fname="Card Back">IMG_7167.JPG</FIELD>
+   <FIELD fname="Receipt">eBay UT Rose Bowl.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">51</FIELD>
+   <FIELD fname="Card Front">IMG_7168.JPG</FIELD>
+   <FIELD fname="Date Acquired">October 14, 2016</FIELD>
+   <FIELD fname="Acquired from">eBay (Online)</FIELD>
+   <FIELD fname="Price">4.99</FIELD>
+   <FIELD fname="Card Back">IMG_7169.JPG</FIELD>
+   <FIELD fname="Receipt">eBay Bevo.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">52</FIELD>
+   <FIELD fname="Card Front">IMG_7281.JPG</FIELD>
+   <FIELD fname="Date Acquired">October 15, 2016</FIELD>
+   <FIELD fname="Acquired from">DKR Texas Memorial Stadium - Austin, TX</FIELD>
+   <FIELD fname="Price">7.99</FIELD>
+   <FIELD fname="Card Back">IMG_7282.JPG</FIELD>
+   <FIELD fname="Receipt">DKR.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">53</FIELD>
+   <FIELD fname="Card Front">IMG_7279.JPG</FIELD>
+   <FIELD fname="Date Acquired">October 15, 2016</FIELD>
+   <FIELD fname="Acquired from">Quack's 43rd Street Bakery - Austin, TX</FIELD>
+   <FIELD fname="Price">5.00</FIELD>
+   <FIELD fname="Card Back">IMG_7280.JPG</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">54</FIELD>
+   <FIELD fname="Card Front">IMG_7609.JPG</FIELD>
+   <FIELD fname="Date Acquired">October 20, 2016</FIELD>
+   <FIELD fname="Acquired from">McKinney Falls State Park - Austin, TX</FIELD>
+   <FIELD fname="Price">4.62</FIELD>
+   <FIELD fname="Card Back">IMG_7610.JPG</FIELD>
+   <FIELD fname="Receipt">McKinney Falls.pdf</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">55</FIELD>
+   <FIELD fname="Card Front">IMG_7611.JPG</FIELD>
+   <FIELD fname="Date Acquired">October 23, 2016</FIELD>
+   <FIELD fname="Acquired from">Wings Over Houston Airshow - Houston, TX</FIELD>
+   <FIELD fname="Price">5.00</FIELD>
+   <FIELD fname="Card Back">IMG_7612.JPG</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">56</FIELD>
+   <FIELD fname="Card Front">IMG_7613.JPG</FIELD>
+   <FIELD fname="Date Acquired">October 23, 2016</FIELD>
+   <FIELD fname="Acquired from">Wings Over Houston Airshow - Houston, TX</FIELD>
+   <FIELD fname="Price">5.00</FIELD>
+   <FIELD fname="Card Back">IMG_7614.JPG</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">57</FIELD>
+   <FIELD fname="Card Front">IMG_7615.JPG</FIELD>
+   <FIELD fname="Date Acquired">October 23, 2016</FIELD>
+   <FIELD fname="Acquired from">Wings Over Houston Airshow - Houston, TX</FIELD>
+   <FIELD fname="Price">5.00</FIELD>
+   <FIELD fname="Card Back">IMG_7616.JPG</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">58</FIELD>
+   <FIELD fname="Card Front">IMG_7731.JPG</FIELD>
+   <FIELD fname="Date Acquired">October 31, 2016</FIELD>
+   <FIELD fname="Acquired from">DKNG (Online)</FIELD>
+   <FIELD fname="Price">25.00</FIELD>
+   <FIELD fname="Card Back">IMG_7732.JPG</FIELD>
+   <FIELD fname="Notes">Explorers Club pin pack</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">59</FIELD>
+   <FIELD fname="Card Front">IMG_7838.JPG</FIELD>
+   <FIELD fname="Date Acquired">October 31, 2016</FIELD>
+   <FIELD fname="Acquired from">Walt Disney World - Orlando, FL</FIELD>
+   <FIELD fname="Price">Free (from Raphael)</FIELD>
+   <FIELD fname="Card Back">IMG_7839.JPG</FIELD>
+   <FIELD fname="Notes">Raphael found this pin under his bed after losing it for a few years</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">60</FIELD>
+   <FIELD fname="Card Front">IMG_7840.JPG</FIELD>
+   <FIELD fname="Date Acquired">October 31, 2016</FIELD>
+   <FIELD fname="Acquired from">Universal Studios - Orlando, FL</FIELD>
+   <FIELD fname="Price">Free (from Raphael)</FIELD>
+   <FIELD fname="Card Back">IMG_7841.JPG</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">61</FIELD>
+   <FIELD fname="Card Front">IMG_7842.JPG</FIELD>
+   <FIELD fname="Date Acquired">November 6, 2016</FIELD>
+   <FIELD fname="Acquired from">International Quilt Festival - Houston, TX</FIELD>
+   <FIELD fname="Price">5.00</FIELD>
+   <FIELD fname="Card Back">IMG_7843.JPG</FIELD>
+   <FIELD fname="Notes">
+    Didn’t visit the museum - got the pin from the Texas Quilt Museum booth at the Quilt Festical
+   </FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">62</FIELD>
+   <FIELD fname="Card Front">IMG_7844.JPG</FIELD>
+   <FIELD fname="Date Acquired">November 6, 2016</FIELD>
+   <FIELD fname="Acquired from">International Quilt Festival - Houston, TX</FIELD>
+   <FIELD fname="Price">6.00</FIELD>
+   <FIELD fname="Card Back">IMG_7845.JPG</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">63</FIELD>
+   <FIELD fname="Card Front">IMG_7846.JPG</FIELD>
+   <FIELD fname="Date Acquired">November 6, 2016</FIELD>
+   <FIELD fname="Acquired from">International Quilt Festival - Houston, TX</FIELD>
+   <FIELD fname="Price">6.00</FIELD>
+   <FIELD fname="Card Back">IMG_7847.JPG</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">64</FIELD>
+   <FIELD fname="Card Front">IMG_7848.JPG</FIELD>
+   <FIELD fname="Date Acquired">November 6, 2016</FIELD>
+   <FIELD fname="Acquired from">International Quilt Festival - Houston, TX</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_7849.JPG</FIELD>
+   <FIELD fname="Notes">Free with purchase of previous pin</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">65</FIELD>
+   <FIELD fname="Card Front">IMG_8173.JPG</FIELD>
+   <FIELD fname="Date Acquired">November 24, 2016</FIELD>
+   <FIELD fname="Acquired from">Unknown</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_8174.JPG</FIELD>
+   <FIELD fname="Notes">From Pawpaw</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">66</FIELD>
+   <FIELD fname="Card Front">IMG_8175.JPG</FIELD>
+   <FIELD fname="Date Acquired">November 24, 2016</FIELD>
+   <FIELD fname="Acquired from">Unknown</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_8176.JPG</FIELD>
+   <FIELD fname="Notes">From Pawpaw</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">67</FIELD>
+   <FIELD fname="Card Front">IMG_8177.JPG</FIELD>
+   <FIELD fname="Date Acquired">November 24, 2016</FIELD>
+   <FIELD fname="Acquired from">Unknown</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_8178.JPG</FIELD>
+   <FIELD fname="Notes">From Pawpaw</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">68</FIELD>
+   <FIELD fname="Card Front">IMG_8179.JPG</FIELD>
+   <FIELD fname="Date Acquired">November 24, 2016</FIELD>
+   <FIELD fname="Acquired from">Unknown</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_8180.JPG</FIELD>
+   <FIELD fname="Notes">From Pawpaw</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">69</FIELD>
+   <FIELD fname="Card Front">IMG_8181.JPG</FIELD>
+   <FIELD fname="Date Acquired">November 24, 2016</FIELD>
+   <FIELD fname="Acquired from">Unknown</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_8182.JPG</FIELD>
+   <FIELD fname="Notes">From Pawpaw</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">70</FIELD>
+   <FIELD fname="Card Front">IMG_8183.JPG</FIELD>
+   <FIELD fname="Date Acquired">November 24, 2016</FIELD>
+   <FIELD fname="Acquired from">Unknown</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_8184.JPG</FIELD>
+   <FIELD fname="Notes">From Pawpaw</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">71</FIELD>
+   <FIELD fname="Card Front">IMG_8185.JPG</FIELD>
+   <FIELD fname="Date Acquired">November 24, 2016</FIELD>
+   <FIELD fname="Acquired from">Unknown</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_8186.JPG</FIELD>
+   <FIELD fname="Notes">From Pawpaw</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">72</FIELD>
+   <FIELD fname="Card Front">IMG_8189.JPG</FIELD>
+   <FIELD fname="Date Acquired">November 24, 2016</FIELD>
+   <FIELD fname="Acquired from">Unknown</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_8190.JPG</FIELD>
+   <FIELD fname="Notes">From Pawpaw</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">73</FIELD>
+   <FIELD fname="Card Front">IMG_8191.JPG</FIELD>
+   <FIELD fname="Date Acquired">November 24, 2016</FIELD>
+   <FIELD fname="Acquired from">Unknown</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_8192.JPG</FIELD>
+   <FIELD fname="Notes">From Pawpaw</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">74</FIELD>
+   <FIELD fname="Card Front">IMG_8193.JPG</FIELD>
+   <FIELD fname="Date Acquired">November 24, 2016</FIELD>
+   <FIELD fname="Acquired from">Unknown</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_8194.JPG</FIELD>
+   <FIELD fname="Notes">From Pawpaw</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">75</FIELD>
+   <FIELD fname="Card Front">IMG_8195.JPG</FIELD>
+   <FIELD fname="Date Acquired">November 24, 2016</FIELD>
+   <FIELD fname="Acquired from">Unknown</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_8196.JPG</FIELD>
+   <FIELD fname="Notes">From Pawpaw</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">76</FIELD>
+   <FIELD fname="Card Front">IMG_8197.JPG</FIELD>
+   <FIELD fname="Date Acquired">November 24, 2016</FIELD>
+   <FIELD fname="Acquired from">Unknown</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_8198.JPG</FIELD>
+   <FIELD fname="Notes">From Pawpaw</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">77</FIELD>
+   <FIELD fname="Card Front">IMG_8199.JPG</FIELD>
+   <FIELD fname="Date Acquired">November 24, 2016</FIELD>
+   <FIELD fname="Acquired from">Unknown</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_8200.JPG</FIELD>
+   <FIELD fname="Notes">From Pawpaw</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">78</FIELD>
+   <FIELD fname="Card Front">IMG_8201.JPG</FIELD>
+   <FIELD fname="Date Acquired">November 24, 2016</FIELD>
+   <FIELD fname="Acquired from">Unknown</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_8202.JPG</FIELD>
+   <FIELD fname="Notes">From Pawpaw</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">79</FIELD>
+   <FIELD fname="Card Front">IMG_8203.JPG</FIELD>
+   <FIELD fname="Date Acquired">December 21, 2016</FIELD>
+   <FIELD fname="Acquired from">Wikipedia Store (Online)</FIELD>
+   <FIELD fname="Price">7.00</FIELD>
+   <FIELD fname="Card Back">IMG_8204.JPG</FIELD>
+   <FIELD fname="Receipt">Order WIKSHOP10501 confirmed.pdf</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">80</FIELD>
+   <FIELD fname="Card Front">IMG_8208.JPG</FIELD>
+   <FIELD fname="Date Acquired">December 21, 2016</FIELD>
+   <FIELD fname="Acquired from">The Royal Society for the Protection of Birds (Online)</FIELD>
+   <FIELD fname="Price">3.69</FIELD>
+   <FIELD fname="Card Back">IMG_8209.JPG; IMG_8205.JPG; IMG_8206.JPG; IMG_8207.JPG</FIELD>
+   <FIELD fname="Receipt">eBay RSPB.pdf</FIELD>
+   <FIELD fname="Notes">Bought from their official ebay store</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">81</FIELD>
+   <FIELD fname="Card Front">IMG_8210.JPG</FIELD>
+   <FIELD fname="Date Acquired">December 21, 2016</FIELD>
+   <FIELD fname="Acquired from">The Royal Society for the Protection of Birds (Online)</FIELD>
+   <FIELD fname="Price">4.92</FIELD>
+   <FIELD fname="Card Back">IMG_8211.JPG</FIELD>
+   <FIELD fname="Receipt">eBay RSPB.pdf</FIELD>
+   <FIELD fname="Notes">Bought from their official ebay store</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">82</FIELD>
+   <FIELD fname="Card Front">IMG_8343.JPG</FIELD>
+   <FIELD fname="Date Acquired">December 30, 2016</FIELD>
+   <FIELD fname="Acquired from">SHPE Conference - Seatlle, WA</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_8344.JPG</FIELD>
+   <FIELD fname="Notes">From Martin</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">83</FIELD>
+   <FIELD fname="Card Front">IMG_8341.JPG</FIELD>
+   <FIELD fname="Date Acquired">January 2, 2017</FIELD>
+   <FIELD fname="Acquired from">Buescher State Park - Smithville, TX</FIELD>
+   <FIELD fname="Price">3.50</FIELD>
+   <FIELD fname="Card Back">IMG_8342.JPG</FIELD>
+   <FIELD fname="Receipt">Buescher.pdf</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">84</FIELD>
+   <FIELD fname="Card Front">IMG_8529.JPG</FIELD>
+   <FIELD fname="Acquired from">eBay (Online)</FIELD>
+   <FIELD fname="Price">10.99</FIELD>
+   <FIELD fname="Card Back">IMG_8530.JPG</FIELD>
+   <FIELD fname="Receipt">eBay 12:29:16.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">85</FIELD>
+   <FIELD fname="Card Front">IMG_8525.JPG</FIELD>
+   <FIELD fname="Acquired from">eBay (Online)</FIELD>
+   <FIELD fname="Price">12.49</FIELD>
+   <FIELD fname="Card Back">IMG_8526.JPG</FIELD>
+   <FIELD fname="Receipt">eBay 1:06:17.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">86</FIELD>
+   <FIELD fname="Card Front">IMG_8531.JPG</FIELD>
+   <FIELD fname="Acquired from">eBay (Online)</FIELD>
+   <FIELD fname="Price">10.00</FIELD>
+   <FIELD fname="Card Back">IMG_8532.JPG</FIELD>
+   <FIELD fname="Receipt">eBay 1:08:17.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">87</FIELD>
+   <FIELD fname="Card Front">IMG_8521.JPG</FIELD>
+   <FIELD fname="Acquired from">eBay (Online)</FIELD>
+   <FIELD fname="Price">9.99</FIELD>
+   <FIELD fname="Card Back">IMG_8522.JPG</FIELD>
+   <FIELD fname="Receipt">eBay 1:10:17.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">88</FIELD>
+   <FIELD fname="Card Front">IMG_8527.JPG</FIELD>
+   <FIELD fname="Acquired from">eBay (Online)</FIELD>
+   <FIELD fname="Price">8.50</FIELD>
+   <FIELD fname="Card Back">IMG_8528.JPG</FIELD>
+   <FIELD fname="Receipt">eBay 1:14:17.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">89</FIELD>
+   <FIELD fname="Card Front">IMG_8533.JPG</FIELD>
+   <FIELD fname="Acquired from">Classic Pins (Online)</FIELD>
+   <FIELD fname="Price">19.95</FIELD>
+   <FIELD fname="Card Back">IMG_8534.JPG</FIELD>
+   <FIELD fname="Receipt">Classic Pins Order Confirmation 39709.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">90</FIELD>
+   <FIELD fname="Card Front">IMG_8523.JPG</FIELD>
+   <FIELD fname="Acquired from">Classic Pins (Online)</FIELD>
+   <FIELD fname="Price">9.95</FIELD>
+   <FIELD fname="Card Back">IMG_8524.JPG</FIELD>
+   <FIELD fname="Receipt">Classic Pins Order Confirmation 39709.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">91</FIELD>
+   <FIELD fname="Card Front">IMG_8588.JPG</FIELD>
+   <FIELD fname="Acquired from">eBay (Online)</FIELD>
+   <FIELD fname="Price">0.99</FIELD>
+   <FIELD fname="Card Back">IMG_8590.JPG</FIELD>
+   <FIELD fname="Receipt">eBay 1:23:17.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">92</FIELD>
+   <FIELD fname="Card Front">IMG_8678.JPG</FIELD>
+   <FIELD fname="Acquired from">eBay (Online)</FIELD>
+   <FIELD fname="Price">3.95</FIELD>
+   <FIELD fname="Card Back">IMG_8679.JPG</FIELD>
+   <FIELD fname="Receipt">eBay 2:22:17.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">93</FIELD>
+   <FIELD fname="Card Front">IMG_8535.JPG</FIELD>
+   <FIELD fname="Acquired from">The Beatles Shop - Las Vegas, NV</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_8536.JPG</FIELD>
+   <FIELD fname="Notes">
+    From Mom and Dad From souvenir shop in The Mirage for Cirque du Soleil: The Beatles LOVE
+   </FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">94</FIELD>
+   <FIELD fname="Card Front">IMG_8537.JPG; IMG_8538.JPG</FIELD>
+   <FIELD fname="Date Acquired">January 29, 2017</FIELD>
+   <FIELD fname="Acquired from">Super Bowl Live - Houston, TX</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_8539.JPG</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">97</FIELD>
+   <FIELD fname="Card Front">IMG_8795.JPG</FIELD>
+   <FIELD fname="Date Acquired">March 16, 2017</FIELD>
+   <FIELD fname="Acquired from">Nakatomi Inc (Online)</FIELD>
+   <FIELD fname="Price">12.00</FIELD>
+   <FIELD fname="Card Back">IMG_8796.JPG</FIELD>
+   <FIELD fname="Receipt">
+    Nakatomi Inc.pdf; ROGUE NASA pins and crew patches! _ Nakatomi, Inc.pdf
+   </FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">96</FIELD>
+   <FIELD fname="Card Front">IMG_8854.JPG; IMG_8852.JPG</FIELD>
+   <FIELD fname="Date Acquired">March 10, 2017</FIELD>
+   <FIELD fname="Acquired from">Mitnal Artesanias - Mérida, Mexico</FIELD>
+   <FIELD fname="Price">39.00 (MX$)</FIELD>
+   <FIELD fname="Card Back">IMG_8853.JPG</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">95</FIELD>
+   <FIELD fname="Card Front">IMG_8777.JPG</FIELD>
+   <FIELD fname="Date Acquired">March 11, 2017</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_8779.JPG</FIELD>
+   <FIELD fname="Notes">From Dad</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">99</FIELD>
+   <FIELD fname="Card Front">IMG_8812.JPG</FIELD>
+   <FIELD fname="Date Acquired">March 22, 2017</FIELD>
+   <FIELD fname="Acquired from">Mondo (Online)</FIELD>
+   <FIELD fname="Price">10.00</FIELD>
+   <FIELD fname="Card Back">IMG_8813.JPG</FIELD>
+   <FIELD fname="Receipt">Mondo Order #306004.pdf</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">98</FIELD>
+   <FIELD fname="Card Front">IMG_8809.JPG</FIELD>
+   <FIELD fname="Date Acquired">March 19, 2017</FIELD>
+   <FIELD fname="Acquired from">SXSW - Austin, TX</FIELD>
+   <FIELD fname="Card Back">IMG_8855.JPG</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">101</FIELD>
+   <FIELD fname="Card Front">IMG_8850.JPG</FIELD>
+   <FIELD fname="Date Acquired">March 27, 2017</FIELD>
+   <FIELD fname="Acquired from">Texas THON</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_8851.JPG</FIELD>
+   <FIELD fname="Notes">From Hannah Reward for raising $500 for Texas THON dance marathon</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">102</FIELD>
+   <FIELD fname="Card Front">IMG_8859.JPG</FIELD>
+   <FIELD fname="Date Acquired">March 28, 2017</FIELD>
+   <FIELD fname="Acquired from">eBay (Online)</FIELD>
+   <FIELD fname="Price">9.95</FIELD>
+   <FIELD fname="Card Back">IMG_8860.JPG</FIELD>
+   <FIELD fname="Receipt">eBay 3:20:17.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">103</FIELD>
+   <FIELD fname="Card Front">IMG_8864.JPG</FIELD>
+   <FIELD fname="Date Acquired">April 1, 2017</FIELD>
+   <FIELD fname="Acquired from">Sugar Mama’s Bakeshop - Austin, TX</FIELD>
+   <FIELD fname="Price">0.92</FIELD>
+   <FIELD fname="Card Back">IMG_8865.JPG</FIELD>
+   <FIELD fname="Receipt">Receipt from Sugar Mamas Bakeshop Southside.pdf</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">104</FIELD>
+   <FIELD fname="Card Front">IMG_9064.JPG</FIELD>
+   <FIELD fname="Date Acquired">April 10, 2017</FIELD>
+   <FIELD fname="Acquired from">eBay (Online)</FIELD>
+   <FIELD fname="Price">6.28</FIELD>
+   <FIELD fname="Receipt">eBay 4:6:17.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">105</FIELD>
+   <FIELD fname="Card Front">IMG_9146.JPG</FIELD>
+   <FIELD fname="Date Acquired">April 25, 2017</FIELD>
+   <FIELD fname="Acquired from">eBay (Online)</FIELD>
+   <FIELD fname="Price">8.99</FIELD>
+   <FIELD fname="Card Back">IMG_9147.JPG</FIELD>
+   <FIELD fname="Receipt">eBay 4:19:17.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">106</FIELD>
+   <FIELD fname="Card Front">FullSizeRender (2).jpg</FIELD>
+   <FIELD fname="Date Acquired">May 8, 2017</FIELD>
+   <FIELD fname="Acquired from">SportingUp (Online)</FIELD>
+   <FIELD fname="Price">5.40</FIELD>
+   <FIELD fname="Card Back">FullSizeRender (1).jpg</FIELD>
+   <FIELD fname="Receipt">SportingUp - Order 12559 confirmed.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">107</FIELD>
+   <FIELD fname="Card Front">FullSizeRender (3).jpg</FIELD>
+   <FIELD fname="Date Acquired">May 11, 2017</FIELD>
+   <FIELD fname="Acquired from">LBJ Ranch - Stonewall, TX</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">FullSizeRender (4).jpg</FIELD>
+   <FIELD fname="Notes">From Hannah</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">108</FIELD>
+   <FIELD fname="Card Front">FullSizeRender (7).jpg</FIELD>
+   <FIELD fname="Date Acquired">May 24, 2017</FIELD>
+   <FIELD fname="Acquired from">NRG Stadium - Houston, TX</FIELD>
+   <FIELD fname="Price">10.00</FIELD>
+   <FIELD fname="Card Back">FullSizeRender (5).jpg</FIELD>
+   <FIELD fname="Notes">U2 Joshua Tree 2017 Tour</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">109</FIELD>
+   <FIELD fname="Card Front">FullSizeRender (8).jpg</FIELD>
+   <FIELD fname="Date Acquired">May 25, 2017</FIELD>
+   <FIELD fname="Acquired from">Porsche Club of America (Online)</FIELD>
+   <FIELD fname="Price">9.99</FIELD>
+   <FIELD fname="Card Back">FullSizeRender (6).jpg</FIELD>
+   <FIELD fname="Receipt">Pcawebstorecom Order Confirmation 17419.pdf</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">110</FIELD>
+   <FIELD fname="Card Front">FullSizeRender (10).jpg</FIELD>
+   <FIELD fname="Date Acquired">May 25, 2017</FIELD>
+   <FIELD fname="Acquired from">Porsche Club of America (Online)</FIELD>
+   <FIELD fname="Price">14.99</FIELD>
+   <FIELD fname="Card Back">FullSizeRender (9).jpg</FIELD>
+   <FIELD fname="Receipt">Pcawebstorecom Order Confirmation 17419.pdf</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">111</FIELD>
+   <FIELD fname="Card Front">IMG_9308.JPG</FIELD>
+   <FIELD fname="Date Acquired">May 31, 2017</FIELD>
+   <FIELD fname="Acquired from">Shark Trust (Online)</FIELD>
+   <FIELD fname="Price">3.00 (GBP)</FIELD>
+   <FIELD fname="Card Back">IMG_9309.JPG</FIELD>
+   <FIELD fname="Receipt">Shark Trust - Order #2448 confirmed.pdf</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">112</FIELD>
+   <FIELD fname="Card Front">IMG_9332.JPG</FIELD>
+   <FIELD fname="Date Acquired">June 6, 2017</FIELD>
+   <FIELD fname="Acquired from">Make-a-Wish Foundation (Online)</FIELD>
+   <FIELD fname="Price">3.15</FIELD>
+   <FIELD fname="Card Back">IMG_9333.JPG</FIELD>
+   <FIELD fname="Receipt">MakeAWish Marketplace order.pdf</FIELD>
+   <FIELD fname="Category">Miscellaneous</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">113</FIELD>
+   <FIELD fname="Card Front">IMG_9377.JPG</FIELD>
+   <FIELD fname="Date Acquired">June 11, 2017</FIELD>
+   <FIELD fname="Acquired from">French Legation Museum - Austin, TX</FIELD>
+   <FIELD fname="Price">6.00</FIELD>
+   <FIELD fname="Card Back">IMG_9378.JPG</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">114</FIELD>
+   <FIELD fname="Card Front">IMG_9431.JPG</FIELD>
+   <FIELD fname="Date Acquired">June 18, 2017</FIELD>
+   <FIELD fname="Acquired from">Paris, France</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_9432.JPG</FIELD>
+   <FIELD fname="Notes">From Raphael’s dad</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">115</FIELD>
+   <FIELD fname="Card Front">IMG_9429.JPG</FIELD>
+   <FIELD fname="Date Acquired">June 18, 2017</FIELD>
+   <FIELD fname="Acquired from">Paris, France</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_9430.JPG</FIELD>
+   <FIELD fname="Notes">From Raphael’s dad</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">116</FIELD>
+   <FIELD fname="Card Front">IMG_9719.JPG</FIELD>
+   <FIELD fname="Date Acquired">July 1, 2017</FIELD>
+   <FIELD fname="Acquired from">Perot Museum of Nature and Science - Dallas, TX</FIELD>
+   <FIELD fname="Price">3.97</FIELD>
+   <FIELD fname="Card Back">IMG_9720.JPG</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">117</FIELD>
+   <FIELD fname="Card Front">IMG_9715.JPG</FIELD>
+   <FIELD fname="Date Acquired">July 1, 2017</FIELD>
+   <FIELD fname="Acquired from">The Sixth Floor Museum at Dealey Plaza - Dallas, TX</FIELD>
+   <FIELD fname="Price">6.95</FIELD>
+   <FIELD fname="Card Back">IMG_9716.JPG</FIELD>
+   <FIELD fname="Receipt">JFK Museum.pdf</FIELD>
+   <FIELD fname="Notes">Didn’t visit museum, but did walk around Dealey Plaza</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">118</FIELD>
+   <FIELD fname="Card Front">IMG_9717.JPG</FIELD>
+   <FIELD fname="Date Acquired">July 1, 2017</FIELD>
+   <FIELD fname="Acquired from">The Sixth Floor Museum at Dealey Plaza - Dallas, TX</FIELD>
+   <FIELD fname="Price">6.95</FIELD>
+   <FIELD fname="Card Back">IMG_9718.JPG</FIELD>
+   <FIELD fname="Receipt">JFK Museum.pdf</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">119</FIELD>
+   <FIELD fname="Card Front">IMG_9734.JPG</FIELD>
+   <FIELD fname="Date Acquired">July 8, 2017</FIELD>
+   <FIELD fname="Acquired from">Circuit of the Americas - Austin, TX</FIELD>
+   <FIELD fname="Price">8.00</FIELD>
+   <FIELD fname="Card Back">IMG_9735.JPG</FIELD>
+   <FIELD fname="Notes">Went to Formula Sun race (solar car racing)</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">120</FIELD>
+   <FIELD fname="Card Front">IMG_9878.JPG</FIELD>
+   <FIELD fname="Date Acquired">July 16, 2017</FIELD>
+   <FIELD fname="Acquired from">Zilker Botanical Garden - Austin, TX</FIELD>
+   <FIELD fname="Price">4.95</FIELD>
+   <FIELD fname="Card Back">IMG_9879.JPG</FIELD>
+   <FIELD fname="Category">Texas</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">121</FIELD>
+   <FIELD fname="Card Front">IMG_9882.JPG</FIELD>
+   <FIELD fname="Date Acquired">July 19, 2017</FIELD>
+   <FIELD fname="Acquired from">eBay (Online)</FIELD>
+   <FIELD fname="Price">14.95</FIELD>
+   <FIELD fname="Card Back">IMG_9883.JPG</FIELD>
+   <FIELD fname="Receipt">eBay 7:15:17.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">122</FIELD>
+   <FIELD fname="Card Front">IMG_9940.JPG</FIELD>
+   <FIELD fname="Date Acquired">July 26, 2017</FIELD>
+   <FIELD fname="Acquired from">National Baseball Hall of Fame Online Store (Online)</FIELD>
+   <FIELD fname="Price">6.00</FIELD>
+   <FIELD fname="Card Back">IMG_9941.JPG</FIELD>
+   <FIELD fname="Receipt">
+    National Baseball Hall of Fame Online Store Invoice  100001740 for Order  100001932.pdf
+   </FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">123</FIELD>
+   <FIELD fname="Card Front">IMG_9997.JPG</FIELD>
+   <FIELD fname="Date Acquired">August 4, 2017</FIELD>
+   <FIELD fname="Acquired from">World of Coca-Cola - Atlanta, GA</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_0001.JPG</FIELD>
+   <FIELD fname="Notes">From Mom</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">124</FIELD>
+   <FIELD fname="Card Front">IMG_9998.JPG</FIELD>
+   <FIELD fname="Date Acquired">August 4, 2017</FIELD>
+   <FIELD fname="Acquired from">Hard Rock Cafe - Atlanta, GA</FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_9999.JPG; IMG_0002.JPG</FIELD>
+   <FIELD fname="Notes">From Mom</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">125</FIELD>
+   <FIELD fname="Card Front">IMG_0003.JPG</FIELD>
+   <FIELD fname="Date Acquired">August 4, 2017</FIELD>
+   <FIELD fname="Acquired from">
+    National September 11 Memorial &amp; Museum - New York City, New York
+   </FIELD>
+   <FIELD fname="Price">Free</FIELD>
+   <FIELD fname="Card Back">IMG_0004.JPG</FIELD>
+   <FIELD fname="Notes">From Mom &amp; Dad</FIELD>
+   <FIELD fname="Category">Travel</FIELD>
+  </RECORD>
+  <RECORD>
+   <FIELD fname="ID #">126</FIELD>
+   <FIELD fname="Card Front">IMG_0169.JPG</FIELD>
+   <FIELD fname="Date Acquired">August 18, 2017</FIELD>
+   <FIELD fname="Acquired from">Minute Maid Park - Houston, TX</FIELD>
+   <FIELD fname="Price">8.00</FIELD>
+   <FIELD fname="Card Back">IMG_0170.JPG</FIELD>
+   <FIELD fname="Receipt">Minute Maid Park 08-18-17.pdf</FIELD>
+   <FIELD fname="Category">Sports</FIELD>
+  </RECORD>
+ </DATA>
+</COLLECTION>
