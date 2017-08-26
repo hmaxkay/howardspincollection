@@ -30,12 +30,12 @@ function myFunction(xml) {
   var i;
   var xmlDoc = xml.responseXML;
   var table="<tr><th>ID</th><th>Card Front</th></tr>";
-  var x = xmlDoc.getElementById("RECORD");
+  var x = xmlDoc.getElementsByTagName("RECORD");
   for (i = 0; i <x.length; i++) { 
     table += "<tr><td>" +
-    x[i].getElementsByTagName("ID #")[0].childNodes[0].nodeValue +
+    x[i].getElementById("ID #")[0].childNodes[0].nodeValue +
     "</td><td>" +
-    x[i].getElementsByTagName("Card Front")[0].childNodes[0].nodeValue +
+    x[i].getElementById("Card Front")[0].childNodes[0].nodeValue +
     "</td></tr>";
   }
   document.getElementById("demo").innerHTML = table;
