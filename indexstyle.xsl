@@ -17,7 +17,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:for-each select="COLLECTION/DATA/RECORD">
     <tr>
       <td><xsl:value-of select="FIELD[@fname = 'ID #']"/></td>
-      <td><img src="thumbnails/{@Card Front}"/></td>
+      <td><img src="thumbnails/{@fname = 'Card Front'}"/></td>
       <td><xsl:value-of select="FIELD[@fname = 'Acquired from']"/></td>
       <td><xsl:value-of select="FIELD[@fname = 'Date Acquired']"/></td>
     </tr>
